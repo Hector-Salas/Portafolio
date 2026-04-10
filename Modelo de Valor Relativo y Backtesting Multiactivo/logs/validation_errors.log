@@ -1,0 +1,9 @@
+2026-04-07 21:52:03,828 - 
+1 Failed download:
+2026-04-07 21:52:03,828 - ['SPY']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-04-07 21:52:28,875 - 
+1 Failed download:
+2026-04-07 21:52:28,875 - ['SPY']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-04-08 15:32:56,849 - 
+1 Failed download:
+2026-04-08 15:32:56,849 - ['SPY']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
