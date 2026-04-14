@@ -29,15 +29,6 @@ The solution is built using **SQL (PostgreSQL)** and **Python (pandas, matplotli
 **Business Context**
 Financial institutions must continuously monitor liquidity and risk to ensure stability and profitability.
 
-**Project Structure**
-revolut_liquidity_project/
-│
-├── sql/                # Data modeling and analytics queries
-├── python/             # Pipeline orchestration and reporting
-├── outputs/            # Charts, reports, insights
-├── README.md
-└── requirements.txt
-
 ## Pipeline Workflow
 1. **Data Preparation**
    - Synthetic financial data generation (transactions, positions)
