@@ -1,4 +1,4 @@
-## PROYECTOS DESTACADOS (Experiencia práctica en finanzas)
+## PROYECTOS DESTACADOS
 A continuación se presentan los proyectos realizados en Visual Studio Code:
 
 ### Liquidity & Risk Analytics Pipeline (Fintech Simulation) | Python + SQL
