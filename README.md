@@ -2,12 +2,12 @@
 The following projects were developed using Visual Studio Code:
 
 ### Liquidity & Risk Analytics Pipeline (Fintech Simulation) | Python + SQL
--Designed and implemented an end-to-end data pipeline for liquidity and risk analysis in a simulated fintech environment.
--Built ETL processes and data models in PostgreSQL, including aggregated views for efficient analysis.
--Developed P&L, liquidity risk, and cash flow behavior analyses.
--Automated reporting and data visualizations using Python (Pandas, Matplotlib).
--Applied query optimization and indexing techniques to improve database performance.
--Generated insights on withdrawal patterns, liquidity gaps, and investment performance.
+- Designed and implemented an end-to-end data pipeline for liquidity and risk analysis in a simulated fintech environment.
+- Built ETL processes and data models in PostgreSQL, including aggregated views for efficient analysis.
+- Developed P&L, liquidity risk, and cash flow behavior analyses.
+- Automated reporting and data visualizations using Python (Pandas, Matplotlib).
+- Applied query optimization and indexing techniques to improve database performance.
+- Generated insights on withdrawal patterns, liquidity gaps, and investment performance.
 
 ### Cryptocurrency Trading Strategy Backtesting | Python
 -Analyzed historical cryptocurrency market data obtained from Binance.
